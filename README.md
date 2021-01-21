@@ -12,5 +12,7 @@ In this Repository, I will be uploading the various projects Related to Data Sci
 | 5.0 | Summer Olympics Medals (1976-2008) | [Dataset Link](https://github.com/swapnilbhange/Data-Science-Projects.../tree/master/Summer%20Olympics%20Medals%20(1976-2008)/Dataset) | [Project Link](https://github.com/swapnilbhange/Data-Science-Projects.../blob/master/Summer%20Olympics%20Medals%20(1976-2008)/summer-olympic-eda.ipynb)
 | 6.0 | Titanic Machine Learning from Disaster | [Dataset Link](https://github.com/swapnilbhange/Data-Science-Projects.../tree/master/Titanic%20Machine%20Learning%20from%20Disaster/Datasets) | [Project Link](https://github.com/swapnilbhange/Data-Science-Projects.../blob/master/Titanic%20Machine%20Learning%20from%20Disaster/titanic-eda-preprocessing.ipynb)
 | 7.0 | Wine Quality | [Dataset Link](https://github.com/swapnilbhange/Data-Science-Projects.../tree/master/Wine%20Quality/Datasets) | [Projects Link](https://github.com/swapnilbhange/Data-Science-Projects.../tree/master/Wine%20Quality)
+| 8.0 | Online Shoppers Purchasing Intention | [Dataset Link](https://github.com/swapnilbhange/Online-Shoppers-Purchasing-Intention--Capstone-Project/blob/master/online_shoppers_intention.csv) | [Projects Link](https://github.com/swapnilbhange/Online-Shoppers-Purchasing-Intention--Capstone-Project/blob/master/Capstone_Final_for_Copy.ipynb)
+
 
 
